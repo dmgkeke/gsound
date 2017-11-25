@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.ce4de553.css",
   "main.css.map": "static/css/main.ce4de553.css.map",
-  "main.js": "static/js/main.788e0127.js",
-  "main.js.map": "static/js/main.788e0127.js.map",
+  "main.js": "static/js/main.41ca7a48.js",
+  "main.js.map": "static/js/main.41ca7a48.js.map",
   "static/media/album1.png": "static/media/album1.18673e17.png",
   "static/media/album10.png": "static/media/album10.0685b049.png",
   "static/media/album11.png": "static/media/album11.ee00ab5f.png",
@@ -16,5 +16,9 @@
   "static/media/album5.png": "static/media/album5.fd4849bb.png",
   "static/media/album7.png": "static/media/album7.0e515150.png",
   "static/media/album8.png": "static/media/album8.7d8f85db.png",
-  "static/media/album9.png": "static/media/album9.47af7b7e.png"
+  "static/media/album9.png": "static/media/album9.47af7b7e.png",
+  "static/media/gallery1.png": "static/media/gallery1.2ca83eac.png",
+  "static/media/gallery2.png": "static/media/gallery2.6bcc5c2a.png",
+  "static/media/gallery3.png": "static/media/gallery3.49251d57.png",
+  "static/media/gallery4.png": "static/media/gallery4.08bdfc53.png"
 }
